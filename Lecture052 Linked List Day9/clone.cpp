@@ -100,3 +100,6 @@ class Solution
         return cloneHead;
     }
 };
+
+//Expected Output is Different from the Complied Code input in GFG
+//https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1
